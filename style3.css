@@ -1,0 +1,32 @@
+.container {
+    width: 1500px;
+    height: 500px;
+    margin: 15px;
+}
+
+.item-1,
+.item-2,
+.item-3,
+.item-4,
+.item-5,
+.item-6,
+.item-7,
+.item-8 {
+    width: 300px;
+    display: inline-block;
+    position: relative;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    font-size: 15px;
+    color: lightsalmon;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    padding: 10px;
+    margin: 0px;
+}
